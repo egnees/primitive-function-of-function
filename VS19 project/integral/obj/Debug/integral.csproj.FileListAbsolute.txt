@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\integral\integral\bin\Debug\integral.exe.config
+C:\Users\ASUS\source\repos\integral\integral\bin\Debug\integral.exe
+C:\Users\ASUS\source\repos\integral\integral\bin\Debug\integral.pdb
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.Properties.Resources.resources
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.exe
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.pdb
+C:\Users\ASUS\source\repos\integral\integral\obj\Debug\integral.integral.resources
