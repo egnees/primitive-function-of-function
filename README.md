@@ -1,5 +1,5 @@
 # primitive-function-of-function
-A program drawing one of the antiderivatives of a function
+A program that drawing one of the antiderivatives of a function
 
 Download VS19 project folder to have access to source code. 
 
